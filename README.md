@@ -24,7 +24,7 @@
 I am a **Full-stack Developer** based in Ukraine.
 * 🔭 2nd-year University Student.
 * 🌱 Currently focusing on **React, TypeScript, Node.js, and Prisma**.
-* ⚡ Building projects like **FinMind** and **MeetMate**.
+* ⚡ Building projects like **BalancAI** and **CappyCall**.
 * 📫 Reach out to me on Instagram.
 
 <hr />
